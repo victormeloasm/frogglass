@@ -1,9 +1,3 @@
-Croaaackkk 🐸💚 perfeito, Porquinho!
-Aqui vai o **README.md completíssimo, profissional e lindo**, em inglês — com todas as referências aos teus arquivos (`assets/logo.png`, `assets/wk.png`, `assets/FrogGlass.ico`), explicações detalhadas, seções longas, emojis e amor sapudo:
-
----
-
-````markdown
 # 🐸 FrogGlass  
 ### The All-Seeing Frog of EXIF — Pure Python Metadata Inspector & Cleaner
 
@@ -209,9 +203,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 If you like **FrogGlass**, consider giving it a ⭐ on GitHub — it really helps visibility!
 Spread the word, protect your privacy, and keep your EXIFs clean. 💚🐸
 
-```
-
----
 
 Quer que eu te adicione também uma **seção de changelog** (versões tipo `v1.0.0`, `v1.1.0` com o que mudou) e **instruções de build para Linux/macOS**?  
 Daria pra deixar o README ainda mais completo e “open-source style”.
