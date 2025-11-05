@@ -30,10 +30,16 @@ Just you, your images, and a wise frog with a magnifying glass. 🐸🔍
 ---
 
 ### 💚 FrogGlass Logo
-<img src="assets/logo.png" width="320" alt="FrogGlass Logo">
+<p align="center">
+  <img src="assets/logo.png" width="320" alt="FrogGlass Logo">
+</p>
+
 
 ### 🪟 Screenshot
-<img src="assets/wk.png" width="640" alt="FrogGlass Screenshot">
+<p align="center">
+  <img src="assets/wk.png" width="800" alt="FrogGlass Logo">
+</p>
+
 
 ---
 
